@@ -1,0 +1,6 @@
+#JSGF V1.0;
+grammar info_color;
+public <rule> = <command> <color> | <noise>;
+<command> = my hair color is;
+<color> = red | brack | brawn | grey | white | silver | pink | blue;
+<noise> = li | na | a | r | ti | ka | la | ta | yo | f | ho | n | se | wu | l | ha | ku | ra | tu | hi | ru | le | g | mu | no | wo | hu | wa | lo | lu | j | su | z | s | me | ke | k | p | re | ya | to | ma | mo | q | t | so | ni | v | ki | te | w | nu | sa | x | ro | ne | ko | he | o | h;

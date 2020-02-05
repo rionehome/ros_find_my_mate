@@ -1,0 +1,6 @@
+#JSGF V1.0;
+grammar info_age;
+public <rule> = <command> <age> | <noise>;
+<command> = i am | i'm;
+<age> = 10 years old | 11 years old | 12 years old | 13 years old | 14 years old | 15 years old | 16 years old | 17 years old | 18 years old | 19 years old | 20 years old | 21 years old | 22 years old | 23 years old | 24 years old | 25 years old | 26 years old | 27 years old | 28 years old | 29 years old | 30 years old;
+<noise> = k | so | v | r | n | no | hu | j | ma | tu | t | he | lo | l | ku | nu | hi | h | le | ka | o | to | w | na | me | x | ru | z | ra | li | ne | ha | s | ni | ti | ta | ro | wu | ke | ya | wo | lu | ki | yo | mo | sa | q | mu | p | ko | f | ho | su | g | se | re | wa | te | a | la;
